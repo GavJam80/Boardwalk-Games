@@ -25,19 +25,19 @@ h3 {
     text-transform: uppercase;
 }
 
+.sub-heading-color {
+    color: var(--highlight-color);
+}
+
 .section {
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
 
-.sub-heading-color {
-    color: var(--highlight-color);
-}
-
 /* Navbar */
 
 #navbar {
-    background-color: #3a2620;
+    background-color: var(--primary-color);
 }
 
 #navbar .logo {
@@ -50,10 +50,9 @@ h3 {
     font-family: var(--secondary-font);
 }
 
+/* grid visualisation CSS for testing */
 
-/* grid visualisation CSS for testing 
-
-.container,
+/* .container,
 .row {
     border: 2px solid black;
 }
@@ -61,4 +60,4 @@ h3 {
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
-} /*
+} */
