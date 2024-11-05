@@ -91,6 +91,13 @@ h2 {
     transform: translate(-50%, -50%);
   }
 
+  #games-booking {
+    margin-bottom: 3rem;
+    position: absolute;
+    right: 30%;
+    padding: auto;
+  }
+
 /* Navbar */
 
 #navbar {
