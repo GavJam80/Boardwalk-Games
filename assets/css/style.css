@@ -74,6 +74,22 @@ h2 {
     color: white; 
 }
 
+#discount {
+    
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+}
+.center {
+    margin-bottom: 2rem;
+    position: absolute;
+    
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
 /* Navbar */
 
 #navbar {
