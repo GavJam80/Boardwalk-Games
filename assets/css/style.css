@@ -42,6 +42,10 @@ h2 {
     margin-bottom: 2rem;
 }
 
+#events-header {
+    text-align: center;
+    margin-top: 2rem;
+}
 /* Buttons  */
 
 .custom-button-filled {
